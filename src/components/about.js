@@ -21,7 +21,7 @@ const About = () => {
                   <div className="about-image">
                     <StaticImage
                       className="img" 
-                      src="../images/Mohan.jpg" 
+                      src="../images/mohan.jpg" 
                       height={450}
                       alt="Profile picture"
                       placeholder="tracedSVG"
