@@ -13,8 +13,8 @@ const Contact = () => {
 
           <div className="contact-section" >
           
-          <form action="/action_page.php"
-          >
+          <form name="contact" method="POST" data-netlify="true" >
+            
 
           <div className="form-input"  >
             <div className="input-item">
